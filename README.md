@@ -1,3 +1,32 @@
-My first Web Project, named 'dodo'.
-You can download PPT here!
+My first Web Project, named 'dodo'. <br>
+You can download PPT here! <br>
 [(eng)YEAJIN's Project01.pptx](https://github.com/vanthalos/FirstWebProject_dodo/files/12723194/eng.YEAJIN.s.Project01.pptx)
+
+
+![Slide1](https://github.com/vanthalos/FirstWebProject_dodo/assets/101725053/d2ae0d7f-a8b7-4d6f-81e4-13ece749f160)
+![Slide2](https://github.com/vanthalos/FirstWebProject_dodo/assets/101725053/6a844a1f-e348-42c0-bda5-af43bee7ef19)
+![Slide3](https://github.com/vanthalos/FirstWebProject_dodo/assets/101725053/0912b70a-5f3f-4414-8113-28077da0c702)
+![Slide4](https://github.com/vanthalos/FirstWebProject_dodo/assets/101725053/bd129258-825a-405b-9d19-7ea13f4e2b96)
+![Slide5](https://github.com/vanthalos/FirstWebProject_dodo/assets/101725053/fc2d6bcc-94dc-42ad-bc72-ae4f6ac60462)
+![Slide6](https://github.com/vanthalos/FirstWebProject_dodo/assets/101725053/dc912a8f-c2cf-4329-af41-e231ecd2a79f)
+![Slide7](https://github.com/vanthalos/FirstWebProject_dodo/assets/101725053/b3ec2535-4324-4d63-8fcd-7dc39de4ed2f)
+![Slide8](https://github.com/vanthalos/FirstWebProject_dodo/assets/101725053/ea8a2175-aa8b-455b-8e84-b96c454bf980)
+![Slide9](https://github.com/vanthalos/FirstWebProject_dodo/assets/101725053/39325bc8-023e-46e6-8fd3-17f07393fd7b)
+![Slide10](https://github.com/vanthalos/FirstWebProject_dodo/assets/101725053/649df036-1d08-440b-a36b-ff5214e993d3)
+![Slide11](https://github.com/vanthalos/FirstWebProject_dodo/assets/101725053/41049b75-35d5-4312-b2ef-2fdd806f53e9)
+![Slide12](https://github.com/vanthalos/FirstWebProject_dodo/assets/101725053/fcfdc062-fd6f-4bf3-8cb8-d7718b3e22ce)
+![Slide13](https://github.com/vanthalos/FirstWebProject_dodo/assets/101725053/135bef8a-a206-4aed-8bad-0e8c19e69b7e)
+![Slide14](https://github.com/vanthalos/FirstWebProject_dodo/assets/101725053/ed28f636-33ff-4e66-8bb5-1ba882045cf5)
+![Slide15](https://github.com/vanthalos/FirstWebProject_dodo/assets/101725053/8a0b07a5-5607-4f14-bc6b-95490f10314b)
+![Slide16](https://github.com/vanthalos/FirstWebProject_dodo/assets/101725053/0e528ef3-5651-4cc1-b987-54ffaf979e08)
+![Slide17](https://github.com/vanthalos/FirstWebProject_dodo/assets/101725053/f81415c3-2281-4b65-8342-5597c50c71de)
+![Slide18](https://github.com/vanthalos/FirstWebProject_dodo/assets/101725053/e4c59b4f-daf2-4e2a-8839-dbc92bbbfc34)
+![Slide19](https://github.com/vanthalos/FirstWebProject_dodo/assets/101725053/dec2d2c0-58da-4d31-bf36-0174795a64f9)
+![Slide20](https://github.com/vanthalos/FirstWebProject_dodo/assets/101725053/0fae88ca-d555-499c-abf2-0d78c02e01b7)
+![Slide21](https://github.com/vanthalos/FirstWebProject_dodo/assets/101725053/745d1373-022f-4c8c-b743-0ade5a2e860b)
+![Slide22](https://github.com/vanthalos/FirstWebProject_dodo/assets/101725053/196b04ab-1aee-4299-986b-9767b20bf0aa)
+![Slide23](https://github.com/vanthalos/FirstWebProject_dodo/assets/101725053/57a23436-37ff-44fb-8481-6fb22261be01)
+![Slide24](https://github.com/vanthalos/FirstWebProject_dodo/assets/101725053/30c3eba9-c336-4386-8eb1-832544b21f38)
+![Slide25](https://github.com/vanthalos/FirstWebProject_dodo/assets/101725053/faf60441-567a-46fe-a33e-dda34699a120)
+![Slide26](https://github.com/vanthalos/FirstWebProject_dodo/assets/101725053/51ba780f-f163-4ebc-9244-cd3075be7038)
+![Slide27](https://github.com/vanthalos/FirstWebProject_dodo/assets/101725053/cc71949e-394d-40ac-98f2-572b3ed161c7)
